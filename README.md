@@ -16,7 +16,7 @@ Clone the Repository:
 
 ```powershell
 git clone https://github.com/anjulameegalla/synfo.ps1.git
-cd Synfo
+cd synfo.ps1
 ```
 
 ## Usage
