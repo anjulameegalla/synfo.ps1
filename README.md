@@ -15,20 +15,14 @@ The output is color-coded to visually flag potential security and operational co
 Clone the Repository:
 
 ```powershell
-git clone https://github.com/anjulameegalla/Synfo.git
+git clone https://github.com/anjulameegalla/synfo.ps1.git
 cd Synfo
 ```
 
 ## Usage
 
 ```powershell
-./Synfo.ps1
+./synfo.ps1
 ```
 
 <br>
-
-### Contributing
-
-Bugs and suggestions are welcome on [Issues](https://github.com/anjulameegalla/Synfo/issues)!  
-
-[![Contact](https://img.shields.io/badge/Contact-2ea44f?style=for-the-badge)](https://anjula.live/)
